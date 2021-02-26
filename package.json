@@ -1,0 +1,25 @@
+{
+  "name": "pi-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate code for using a Raspbarry Pi as an IoT device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/design-for-everyone/iot-rapsberry-pi-boilerplate.git"
+  },
+  "author": "Frederik Duchi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "johnny-five": "^2.0.0",
+    "mqtt": "^4.2.6",
+    "raspi-io": "^11.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/design-for-everyone/iot-rapsberry-pi-boilerplate/issues"
+  },
+  "homepage": "https://github.com/design-for-everyone/iot-rapsberry-pi-boilerplate#readme"
+}
